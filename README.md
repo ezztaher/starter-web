@@ -21,3 +21,7 @@ Adding info here
 Adding more info
 Adding more info
 Adding more info
+
+### Copyright
+
+Copyright note
