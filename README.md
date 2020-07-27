@@ -18,6 +18,9 @@ Adding info here
 
 ## How To Contribute
 
+Please fork this repo ansd issue pull req for review
+
+
 Adding more info
 Adding more info
 Adding more info
