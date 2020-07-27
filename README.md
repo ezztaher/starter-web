@@ -27,4 +27,4 @@ Adding more info
 
 ### Copyright
 
-Copyright note
+Copyright note. All rights resurved
