@@ -14,4 +14,10 @@ Sample website with plenty of files for demos
 
 Sample website with plenty of files for demos
 
+Adding info here
+
 ## How To Contribute
+
+Adding more info
+Adding more info
+Adding more info
